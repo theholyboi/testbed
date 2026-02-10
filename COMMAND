@@ -1,1 +1,1 @@
-ALARM #
+CLOSE_APP #
