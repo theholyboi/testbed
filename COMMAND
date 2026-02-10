@@ -1,1 +1,1 @@
-CLEAR #
+CLOSE_APP #
